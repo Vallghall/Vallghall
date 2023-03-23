@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, dear ☭comrades☭ 👋
 
 <!--
 **Vallghall/Vallghall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning about Haskell programming language and FP in general
+
+
+## 🛠 &nbsp;Tech Stack
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=black)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp; 
